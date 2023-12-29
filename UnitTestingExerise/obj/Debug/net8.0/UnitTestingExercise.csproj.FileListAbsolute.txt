@@ -1,0 +1,14 @@
+C:\Users\Jon\repos\UnitTestingExerise\UnitTestingExerise\bin\Debug\net8.0\UnitTestingExercise.exe
+C:\Users\Jon\repos\UnitTestingExerise\UnitTestingExerise\bin\Debug\net8.0\UnitTestingExercise.deps.json
+C:\Users\Jon\repos\UnitTestingExerise\UnitTestingExerise\bin\Debug\net8.0\UnitTestingExercise.runtimeconfig.json
+C:\Users\Jon\repos\UnitTestingExerise\UnitTestingExerise\bin\Debug\net8.0\UnitTestingExercise.dll
+C:\Users\Jon\repos\UnitTestingExerise\UnitTestingExerise\bin\Debug\net8.0\UnitTestingExercise.pdb
+C:\Users\Jon\repos\UnitTestingExerise\UnitTestingExerise\obj\Debug\net8.0\UnitTestingExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jon\repos\UnitTestingExerise\UnitTestingExerise\obj\Debug\net8.0\UnitTestingExercise.AssemblyInfoInputs.cache
+C:\Users\Jon\repos\UnitTestingExerise\UnitTestingExerise\obj\Debug\net8.0\UnitTestingExercise.AssemblyInfo.cs
+C:\Users\Jon\repos\UnitTestingExerise\UnitTestingExerise\obj\Debug\net8.0\UnitTestingExercise.csproj.CoreCompileInputs.cache
+C:\Users\Jon\repos\UnitTestingExerise\UnitTestingExerise\obj\Debug\net8.0\UnitTestingExercise.dll
+C:\Users\Jon\repos\UnitTestingExerise\UnitTestingExerise\obj\Debug\net8.0\refint\UnitTestingExercise.dll
+C:\Users\Jon\repos\UnitTestingExerise\UnitTestingExerise\obj\Debug\net8.0\UnitTestingExercise.pdb
+C:\Users\Jon\repos\UnitTestingExerise\UnitTestingExerise\obj\Debug\net8.0\UnitTestingExercise.genruntimeconfig.cache
+C:\Users\Jon\repos\UnitTestingExerise\UnitTestingExerise\obj\Debug\net8.0\ref\UnitTestingExercise.dll
